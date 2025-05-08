@@ -206,3 +206,58 @@ body {
     letter-spacing: 0.19px;
     padding: 13px 22px 39px 23px;
 }
+
+.touch {
+    margin-top: 115px;
+}
+.touch__wrapper {
+    background-image: url(../images/touch-bg.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: center;
+}
+.touch__wrapper-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+.thouch__title {
+    padding-top: 120px;
+    font-family:'Open Sans Bold', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 1.2;
+    text-align: center;
+    max-width: 350px;
+    min-height: 72px;
+    letter-spacing: .15px;
+}
+.touch__button {
+    background-color: #00A4E5;
+    padding: 11px 26px;
+    font-family:'Open Sans Bold', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: .5px;
+    color: #fff;
+}
+
+.message {
+
+}
+.message__wrapper {
+    
+}
+.container {
+    
+}
+.message__text {
+}
+.message__input {
+}
+.mail-input {
+}
+.message__button {
+}
